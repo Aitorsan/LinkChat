@@ -1,4 +1,4 @@
-linkserver/.vscode
+linkserver/.vscode/
 linkserver/bin/*
-linkchat/.vscode
-linkchat/bin/*
+linkclient/.vscode
+linkclient/bin/*
